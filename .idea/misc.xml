@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Fashda/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.18" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Fashda/app/src/main/res/layout/activity_mosque_detail.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Fashda/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Fashda/app/src/main/res/layout/activity_walkthrough.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Fashda/app/src/main/res/layout/fragment_mosque.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Fashda/app/src/main/res/layout/fragment_prayer.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Fashda/app/src/main/res/layout/main_layout.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Fashda/app/src/main/res/layout/mosque_item.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Fashda/app/src/main/res/layout/photo_item.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Fashda/app/src/main/res/layout/walkthrough_item.xml" value="0.25" />
+        <entry key="..\:/Users/Reza Kurnia/Downloads/Compressed/Fashda-master/app/src/main/res/drawable/item_frame.xml" value="0.1045" />
+        <entry key="..\:/Users/Reza Kurnia/Downloads/Compressed/Fashda-master/app/src/main/res/layout/activity_mosque_detail.xml" value="0.33" />
+        <entry key="..\:/Users/Reza Kurnia/Downloads/Compressed/Fashda-master/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/Reza Kurnia/Downloads/Compressed/Fashda-master/app/src/main/res/layout/activity_walkthrough.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/Reza Kurnia/Downloads/Compressed/Fashda-master/app/src/main/res/layout/fragment_mosque.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Reza Kurnia/Downloads/Compressed/Fashda-master/app/src/main/res/layout/fragment_prayer.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Reza Kurnia/Downloads/Compressed/Fashda-master/app/src/main/res/layout/main_layout.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Reza Kurnia/Downloads/Compressed/Fashda-master/app/src/main/res/layout/mosque_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Reza Kurnia/Downloads/Compressed/Fashda-master/app/src/main/res/layout/photo_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Reza Kurnia/Downloads/Compressed/Fashda-master/app/src/main/res/layout/walkthrough_item.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
